@@ -1,0 +1,54 @@
+.divChart{
+   margin-left: 12%;
+   width: 75%;
+   height: 20%;
+   justify-content: center;
+   display: flex;
+}
+
+.lblGer {
+    color: white;
+    font-size: medium;
+    margin: 8px 0px 0px 15px;
+  }
+  
+  .table-title{
+    background-color: #002b5c;;
+    height: 60px;
+  }
+
+.example-card {
+    width: 100%;
+    height: 110px;
+    margin-bottom: 8px;
+    box-shadow: 0 4px 8px 0 rgba(156, 45, 45, 0.2);
+    transition: 0.3s;
+    border-radius: 10px;
+}
+
+.card-title{
+    font-size: 28px;
+    color: rgb(17, 29, 196);
+}
+
+.div-content{
+    display: inline-block;
+    margin-right: 1.5%;
+    width: 18%;
+}
+
+.linha{
+    width: 100%;
+    margin-left: 2%;
+}
+  
+  .example-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background-color: lightgray;
+  }
+
+.width-50{width: 48%; margin-top: 12px; color: white;}
+.ml-1{margin-left: 1%;}
+.ml-2{margin-left: 2%;}
+.width-100{width: 100%;}
+.width-25{width: 25%;}
